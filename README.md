@@ -9,8 +9,9 @@ Projeto para análise do relatório de acidentes do Datatran, gerado pela PRF br
 ## Ferramentas
  - Linguagem de Programação: Python (Ambiente Virtual | Pandas | SQLAlchemy | Matplotlib | Seaborn | Folium)
  - IDE: Visual Studio Code
- - Banco de Dados: PostgreSQL
+ - Banco de Dados: MySQL
+ - SGBD: MySQL Workbench | GNOME Terminal
 
 ## Recursos Futuros
  - Deploy: Docker 
- - Dataviz: Power BI
+ - Dataviz: PowerBI
